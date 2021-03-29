@@ -1,0 +1,68 @@
+
+[
+    {
+      "id": 1,
+      "horse": "THOU SHALL SING",
+      "color": "B047",
+      "weight": "133",
+      "jockey": "C Y Ho",
+      "draw": "4",
+      "gear": "B",
+      "rating": "59",
+      "trainer": "K W Lui",
+      "priority": "* 1",
+      "lastSix": "9/6/5/7/6/1"
+    },
+    {
+        "id": 2,
+        "horse": "CALIFORNIA GUNGHO",
+        "color": "B204",
+        "weight": "132",
+        "jockey": "M Chadwick",
+        "draw": "9",
+        "gear": "B/TT",
+        "rating": "+2",
+        "trainer": "A S Cruz",
+        "priority": "* 1",
+        "lastSix": "6/5/7/8/7/8"
+      },
+      {
+        "id": 3,
+        "horse": "RESOLUTE",
+        "color": "D243",
+        "weight": "131",
+        "jockey": "K Teetan",
+        "draw": "1",
+        "gear": "B",
+        "rating": "+2",
+        "trainer": "A T Millard",
+        "priority": "+ 1",
+        "lastSix": "2/2/9/5/1/3"
+      },
+      {
+        "id": 4,
+        "horse": "LUMEN BABA",
+        "color": "D322",
+        "weight": "-4",
+        "jockey": "C L Chau",
+        "draw": "6",
+        "gear": "XB/H1/P1",
+        "rating": "-4",
+        "trainer": "D J Whyte",
+        "priority": "+ 1",
+        "lastSix": "12/9/12/11/8/12"
+      },
+      {
+        "id": 5,
+        "horse": "FA FA",
+        "color": "E106",
+        "weight": "126",
+        "jockey": "M F Poon",
+        "draw": "12",
+        "gear": "TT1",
+        "rating": "0",
+        "trainer": "F C Lor",
+        "priority": "+ 1",
+        "lastSix": "12/11/12/6/6/8"
+      }
+  ]
